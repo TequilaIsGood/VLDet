@@ -1,5 +1,5 @@
 # VLDet: Learning Object-Language Alignments for Open-Vocabulary Object Detection
-
+## Note: Modified and MIT-Licensed VLDet from https://github.com/clin1223/VLDet 
 <p align="center"> <img src='docs/readme.jpeg' align="center" height="200px"> </p>
 
 > [**Learning Object-Language Alignments for Open-Vocabulary Object Detection**](https://arxiv.org/abs/2211.14843),               
